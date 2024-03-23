@@ -3,8 +3,8 @@
 
 
 - 🔭 Sou Estudante de Desenvolvimento, Apaixonado por Tecnologia.
-- 🌱 Atualmente faço Curso Técnico no SENAC e outros cursos online, finalizando estarei ingressando num curso superio ou tecnólogo. 
-- 👯 Estou em Busca da minha primeira vaga na área de T.I 
+- 🌱 Formado em Tecnologia da Informação no SENAC-SP, foco em Redes de Computadores, estudante Cisco academy e cursando Tecnologo em Redes de Computadores no Senac/EAD. 
+- 👯 Estudando para certificação CCNA, Windows Server 2019, Python3, Packet Tracer, lendo o livro da Hackone CCNA 7.0. 
 
 
 ![VinNissu GitHub stats](https://github-readme-stats.vercel.app/api?username=dias0001&show_icons=true&theme=dracula) &nbsp;&nbsp;
