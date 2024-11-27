@@ -2,12 +2,12 @@
  ## Me chamo Luiz Gustavo !👋
 
 
-- 🔭 Sou Estudante de Desenvolvimento, Apaixonado por Tecnologia.
+- 🔭 Sou Estudante de REDES, CLOUD, CYBERSECURITY e Desenvolvimento, Apaixonado por Tecnologia.
 - 🌱 Formado em Tecnologia da Informação no SENAC-SP, foco em Redes de Computadores, estudante Cisco academy e cursando Tecnologo em Redes de Computadores no Senac/EAD. 
-- 👯 Estudando para certificação CCNA, Windows Server 2019, Python3, Packet Tracer, lendo o livro da Hackone CCNA 7.0. 
+- 👯 Estudando para certificação CCNA, Windows Server 2019, Python3, Packet Tracer, eve-ng lendo o livros da Hackone CCNA 7.0 e CIBER.SEGURANÇA guia definitivo. 
 
 
-![VinNissu GitHub stats](https://github-readme-stats.vercel.app/api?username=dias0001&show_icons=true&theme=dracula) &nbsp;&nbsp;
+![luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=dias0001&show_icons=true&theme=dracula) &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dias0001&layout=compact)](https://github.com/dias0001/github-readme-stats)
 
 # Tecnologias sendo estudadas por mim 
