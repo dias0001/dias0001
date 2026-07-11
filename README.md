@@ -53,7 +53,7 @@ Plataforma privada de Inteligência Artificial desenvolvida para consulta técni
 
 # 🎓 Formação
 
-- Tecnólogo em Redes de Computadores
+- Graduação em Redes de Computadores
 - SENAC São Paulo
 - Cisco Networking Academy
 
