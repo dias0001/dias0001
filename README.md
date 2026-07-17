@@ -1,12 +1,10 @@
- # 👋 Olá! Eu sou Luiz Gustavo
+# 👋 Olá! Eu sou Luiz Gustavo
 
-## Network Engineer | Infrastructure | Linux | Artificial Intelligence | Automation
+**Network Infrastructure Engineer | AI Platform Developer | Linux | Python | Enterprise Networking**
 
-Sou profissional certificado **Cisco Certified Network Associate (CCNA)**, apaixonado por Infraestrutura, Redes Enterprise, Linux, Inteligência Artificial e Engenharia de Software.
+Sou profissional certificado **Cisco Certified Network Associate (CCNA)** e graduando em **Redes de Computadores** pelo **SENAC São Paulo**, com atuação na indústria aeronáutica.
 
-Atualmente estou desenvolvendo a **Aircraft AI Platform**, uma plataforma privada de Inteligência Artificial voltada para consulta inteligente de documentação técnica aeronáutica utilizando **RAG (Retrieval-Augmented Generation)**, **Modelos Locais (LLMs)**, **Banco Vetorial**, **Python** e **Docker**.
-
-Meu objetivo é evoluir continuamente para atuar em projetos de Infraestrutura, Redes Enterprise, Cloud e Inteligência Artificial aplicada.
+Atualmente desenvolvo soluções voltadas à **Infraestrutura**, **Redes Enterprise** e **Inteligência Artificial aplicada**, utilizando Linux, Python, Docker, virtualização e modelos locais de IA para construir plataformas técnicas com foco em automação, consulta documental e engenharia de software.
 
 ---
 
@@ -14,73 +12,41 @@ Meu objetivo é evoluir continuamente para atuar em projetos de Infraestrutura, 
 
 ## ✈ Aircraft AI Platform
 
-Plataforma privada de Inteligência Artificial desenvolvida para consulta técnica de documentação aeronáutica.
+Plataforma privada de Inteligência Artificial para consulta inteligente de documentação técnica aeronáutica utilizando **Retrieval-Augmented Generation (RAG)**.
 
-### Objetivos
+### Situação atual do projeto
 
-- Consulta inteligente utilizando IA
-- Processamento de PDFs
-- OCR
-- Banco Vetorial
-- Embeddings
-- RAG
-- Modelos Locais (Ollama)
+- ✅ IA Local funcionando
+- ✅ Processamento de PDFs
+- ✅ Extração de texto
+- ✅ Chunking
+- ✅ Embeddings
+- ✅ Banco Vetorial (ChromaDB)
+- ✅ Busca Semântica
+- ✅ Primeira resposta baseada em documentação ATA 24
+
+### Próximas funcionalidades
+
+- Importação automática de documentos
+- Referência de páginas e capítulos
+- Catálogo de documentos
+- Interface Web
 - API REST
-- Dashboard Web
-- Integração futura com Obsidian
-
-### Stack Tecnológica
-
-- Python
-- Linux
-- Docker
-- PostgreSQL
-- Ollama
-- Git
-- GitHub
-- Banco Vetorial
-- OCR
-- RAG
+- Suporte a múltiplas ATAs
 
 ---
 
-# 🏆 Certificações
-
-- ✅ Cisco Certified Network Associate (CCNA)
-- 🎯 Cisco Certified Network Professional Enterprise (CCNP Enterprise) *(Em preparação)*
-
----
-
-# 🎓 Formação
-
-- Graduação em Redes de Computadores
-- SENAC São Paulo
-- Cisco Networking Academy
-
----
-
-# 📚 Atualmente aprofundando conhecimentos
-
-## Enterprise Networking
-
-- Cisco CCNP Enterprise
-- ENCOR 350-401
-- ENARSI 300-410
-- Routing & Switching
-- Enterprise Design
-- Cisco IOS / IOS XE
-- Troubleshooting Enterprise
+# 🛠 Tecnologias
 
 ## Infraestrutura
 
-- Linux Administration
+- Linux
 - Docker
 - Portainer
 - Proxmox VE
-- Virtualização
+- SSH
 - Git
 - GitHub
-- SSH
 
 ## Desenvolvimento
 
@@ -94,11 +60,86 @@ Plataforma privada de Inteligência Artificial desenvolvida para consulta técni
 
 - Ollama
 - RAG
+- ChromaDB
 - Embeddings
-- Banco Vetorial
+- LLMs Locais
 - OCR
 - Prompt Engineering
+
+## Redes
+
+- Cisco IOS / IOS XE
+- Enterprise Networking
+- Routing & Switching
+- Troubleshooting Enterprise
+
+---
+
+# 🏆 Certificações
+
+- ✅ Cisco Certified Network Associate (CCNA)
+  - **Válido até Janeiro/2029**
+
+- 🎯 Cisco Certified Network Professional Enterprise (CCNP Enterprise)
+  - ENCOR 350-401 *(Em preparação)*
+  - ENARSI 300-410 *(Em preparação)*
+
+---
+
+# 🎓 Formação
+
+**Tecnólogo em Redes de Computadores**
+
+SENAC São Paulo
+
+📅 Conclusão prevista: **Outubro de 2026**
+
+---
+
+# 💼 Experiência Profissional
+
+## Latecoere Brasil
+
+**Structural Sealing Technician**
+
+Atuação na indústria aeronáutica, seguindo processos de fabricação, qualidade e documentação técnica em ambiente altamente regulamentado.
+
+---
+
+# 📚 Atualmente estudando
+
+## Enterprise Networking
+
+- CCNP Enterprise
+- ENCOR 350-401
+- ENARSI 300-410
+- Enterprise Design
+- Routing & Switching
+- Troubleshooting
+
+## Infraestrutura
+
+- Linux Administration
+- Docker
+- Portainer
+- Proxmox VE
+- Virtualização
+
+## Inteligência Artificial
+
+- Ollama
+- RAG
+- ChromaDB
+- Embeddings
+- OCR
 - LLMs Locais
+
+## Desenvolvimento
+
+- Python
+- APIs REST
+- PostgreSQL
+- SQL
 
 ---
 
@@ -114,18 +155,19 @@ Plataforma privada de Inteligência Artificial desenvolvida para consulta técni
 
 # 📈 Roadmap Profissional
 
-Atualmente construindo experiência prática em:
+## 2026
 
-- Infraestrutura Linux
-- Docker
-- DevOps Foundations
-- Python
-- PostgreSQL
-- Inteligência Artificial
-- Enterprise Networking
-- Virtualização
-- Automação
-- Arquitetura de Sistemas
+- ✅ Cisco CCNA
+- 🎓 Conclusão da graduação em Redes de Computadores
+- 🎯 CCNP Enterprise
+- 🚀 Evolução da Aircraft AI Platform
+
+## 2027
+
+- Pós-graduação Hackone 2.0
+- Inteligência Artificial aplicada à Infraestrutura
+- Cloud Computing
+- Automação de Infraestrutura
 
 ---
 
@@ -141,18 +183,18 @@ Atualmente construindo experiência prática em:
 
 ---
 
-# 🚀 Objetivos
+# 🎯 Objetivo Profissional
 
-Meu objetivo é atuar profissionalmente nas áreas de:
+Busco atuar no desenvolvimento de soluções voltadas para:
 
-- Network Engineering
-- Infrastructure Engineering
-- Cloud Computing
+- Enterprise Networking
+- Network Infrastructure
 - Linux Administration
-- Cybersecurity
-- Artificial Intelligence Engineering
-- Enterprise Networks
+- Cloud Computing
 - Automação de Infraestrutura
+- Inteligência Artificial aplicada
+- Engenharia de Software
+- Plataformas de IA para documentação técnica
 
 ---
 
@@ -160,15 +202,15 @@ Meu objetivo é atuar profissionalmente nas áreas de:
 
 Acredito que a melhor forma de aprender tecnologia é construindo soluções reais.
 
-Por isso, procuro desenvolver projetos completos, documentando cada etapa da evolução, compreendendo profundamente o funcionamento interno das tecnologias utilizadas e aplicando boas práticas de engenharia de software e infraestrutura.
+Cada projeto é desenvolvido com foco em documentação, boas práticas de engenharia, versionamento, infraestrutura e evolução contínua.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 - GitHub: https://github.com/dias0001
-- LinkedIn: *www.linkedin.com/in/luiz-gustavo-chaves-dias*
+- LinkedIn: https://www.linkedin.com/in/luiz-gustavo-chaves-dias
 
 ---
 
-> *"Transformando estudo em engenharia, um projeto por vez."*
+> **"Transformando estudo em engenharia, um projeto por vez."**
