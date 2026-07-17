@@ -168,7 +168,7 @@ Atuação na indústria aeronáutica, seguindo processos de fabricação, qualid
 
 ## 2027
 
-- P- 🎓 Pós-graduação Hackone 2.0 (Fevereiro 2027)
+- 🎓 Pós-graduação Hackone 2.0 (Fevereiro 2027)
 - Inteligência Artificial aplicada à Infraestrutura
 - Cloud Computing
 - Automação de Infraestrutura
