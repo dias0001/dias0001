@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou Luiz Gustavo
 
-**Network Infrastructure Engineer | AI Platform Developer | Linux | Python | Enterprise Networking**
+**Network Infrastructure Engineer | AI Engineer | Linux | Python | Enterprise Networking**
 
-Sou profissional certificado **Cisco Certified Network Associate (CCNA)** e graduando em **Redes de Computadores** pelo **SENAC São Paulo**, com atuação na indústria aeronáutica.
+Profissional certificado **Cisco Certified Network Associate (CCNA)**, **Técnico em Tecnologia da Informação pelo SENAC** e **graduando em Redes de Computadores**, com conclusão prevista para **outubro de 2026**.
 
-Atualmente desenvolvo soluções voltadas à **Infraestrutura**, **Redes Enterprise** e **Inteligência Artificial aplicada**, utilizando Linux, Python, Docker, virtualização e modelos locais de IA para construir plataformas técnicas com foco em automação, consulta documental e engenharia de software.
+Atualmente atuo na indústria aeronáutica e desenvolvo projetos nas áreas de **Infraestrutura**, **Redes Enterprise**, **Linux**, **Virtualização**, **Python** e **Inteligência Artificial**, aplicando boas práticas de engenharia para construir soluções voltadas à automação, documentação técnica e plataformas privadas baseadas em IA.
 
 ---
 
@@ -12,27 +12,29 @@ Atualmente desenvolvo soluções voltadas à **Infraestrutura**, **Redes Enterpr
 
 ## ✈ Aircraft AI Platform
 
-Plataforma privada de Inteligência Artificial para consulta inteligente de documentação técnica aeronáutica utilizando **Retrieval-Augmented Generation (RAG)**.
+Plataforma privada de Inteligência Artificial desenvolvida para consulta inteligente de documentação técnica utilizando **Retrieval-Augmented Generation (RAG)** e modelos locais de IA.
 
-### Situação atual do projeto
+O projeto foi concebido para ambientes onde segurança, privacidade e processamento local são requisitos essenciais, permitindo consultas inteligentes sobre documentos técnicos sem dependência de serviços em nuvem.
 
-- ✅ IA Local funcionando
-- ✅ Processamento de PDFs
+### Funcionalidades implementadas
+
+- ✅ IA Local (LLM)
+- ✅ Processamento de documentos PDF
 - ✅ Extração de texto
 - ✅ Chunking
 - ✅ Embeddings
 - ✅ Banco Vetorial (ChromaDB)
-- ✅ Busca Semântica
-- ✅ Primeira resposta baseada em documentação ATA 24
+- ✅ Busca Semântica (RAG)
 
-### Próximas funcionalidades
+### Roadmap
 
 - Importação automática de documentos
-- Referência de páginas e capítulos
 - Catálogo de documentos
+- Citação das fontes consultadas
 - Interface Web
 - API REST
-- Suporte a múltiplas ATAs
+- Gerenciamento de múltiplas coleções documentais
+- Controle de acesso e autenticação
 
 ---
 
@@ -88,11 +90,13 @@ Plataforma privada de Inteligência Artificial para consulta inteligente de docu
 
 # 🎓 Formação
 
-**Tecnólogo em Redes de Computadores**
+- 🎓 **Graduação em Redes de Computadores**  
+  **SENAC São Paulo**  
+  📅 Conclusão prevista: **Outubro de 2026**
 
-SENAC São Paulo
-
-📅 Conclusão prevista: **Outubro de 2026**
+- 🎓 **Técnico em Tecnologia da Informação**  
+  **SENAC São Paulo**  
+  ✅ Concluído em **Fevereiro de 2024**
 
 ---
 
@@ -100,7 +104,7 @@ SENAC São Paulo
 
 ## Latecoere Brasil
 
-**Structural Sealing Technician**
+****Structural Sealing Technician – Aerospace Industry****
 
 Atuação na indústria aeronáutica, seguindo processos de fabricação, qualidade e documentação técnica em ambiente altamente regulamentado.
 
@@ -164,7 +168,7 @@ Atuação na indústria aeronáutica, seguindo processos de fabricação, qualid
 
 ## 2027
 
-- Pós-graduação Hackone 2.0
+- P- 🎓 Pós-graduação Hackone 2.0 (Fevereiro 2027)
 - Inteligência Artificial aplicada à Infraestrutura
 - Cloud Computing
 - Automação de Infraestrutura
@@ -191,10 +195,10 @@ Busco atuar no desenvolvimento de soluções voltadas para:
 - Network Infrastructure
 - Linux Administration
 - Cloud Computing
-- Automação de Infraestrutura
-- Inteligência Artificial aplicada
-- Engenharia de Software
-- Plataformas de IA para documentação técnica
+- Infrastructure Automation
+- Artificial Intelligence
+- Software Engineering
+- AI Platforms for Technical Documentation
 
 ---
 
@@ -208,8 +212,8 @@ Cada projeto é desenvolvido com foco em documentação, boas práticas de engen
 
 # 📫 Contato
 
-- GitHub: https://github.com/dias0001
-- LinkedIn: https://www.linkedin.com/in/luiz-gustavo-chaves-dias
+- GitHub: **github.com/dias0001**
+- LinkedIn: **linkedin.com/in/luiz-gustavo-chaves-dias**
 
 ---
 
