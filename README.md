@@ -175,40 +175,60 @@ Sou apaixonado pela aviação e considero uma honra fazer parte da Latecoere Bra
 
 ---
 
-# 📚 Atualmente estudando
+# # 📚 Estudos e Desenvolvimento Técnico
 
-## Enterprise Networking
+### 🐧 Linux — Foco atual
 
-- CCNP Enterprise
-- ENCOR 350-401
-- ENARSI 300-410
-- Enterprise Design
-- Routing & Switching
-- Troubleshooting
+- Linux Essentials 010-160 — Em preparação.
+- Administração básica de sistemas Linux.
+- Terminal Bash, arquivos, diretórios e permissões.
+- Gerenciamento de pacotes e serviços.
+- Git e GitHub para documentação e versionamento.
+- LPIC-1 — Próxima etapa após Linux Essentials.
 
-## Infraestrutura
+### 🌐 Cisco Enterprise Networking
 
-- Linux Administration
-- Docker
-- Portainer
-- Proxmox VE
-- Virtualização
+- CCNP Enterprise — Trilha de estudos em andamento.
+- ENCOR 350-401 — Em preparação.
+- ENARSI 300-410 — Em preparação.
+- Routing & Switching e protocolos de roteamento.
+- Troubleshooting de redes corporativas.
+- Laboratórios práticos com Cisco Packet Tracer, EVE-NG e PNETLab.
 
-## Inteligência Artificial
+### 🖥️ Infraestrutura e Virtualização
 
-- Ollama
-- RAG
-- ChromaDB
-- Embeddings
-- OCR
-- LLMs Locais
+**Tecnologias utilizadas em laboratório:**
 
-## Desenvolvimento
+- VMware Workstation.
+- Proxmox VE.
+- Ubuntu Server.
+- Docker e Portainer.
+- Redes virtuais e administração de máquinas virtuais.
 
-- Python
-- APIs REST
-- PostgreSQL
-- SQL
+### 🤖 Inteligência Artificial
+
+**Conhecimentos aplicados no projeto Aircraft AI Platform:**
+
+- Ollama e modelos de linguagem locais.
+- Arquitetura RAG.
+- ChromaDB e embeddings.
+- Processamento de documentos PDF.
+- Desenvolvimento e configuração de agentes especializados.
+
+**Status:** Projeto experimental funcional, temporariamente suspenso.
+
+### 💻 Desenvolvimento e Automação
+
+**Conhecimentos em desenvolvimento:**
+
+- Python.
+- APIs REST.
+- SQL e PostgreSQL.
+- Automação de infraestrutura.
+
+### 🎯 Direção dos estudos
+
+Consolidar os fundamentos de Linux, avançar na preparação para o CCNP Enterprise e desenvolver competências em automação, infraestrutura e segurança defensiva, por meio de estudos estruturados e laboratórios documentados.
 
 ---
 
