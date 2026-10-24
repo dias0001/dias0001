@@ -1,112 +1,177 @@
-# 👋 Olá! Eu sou Luiz Gustavo
+#  👋 Olá! Eu sou Luiz Gustavo
 
-**Network Infrastructure Engineer | AI Engineer | Linux | Python | Enterprise Networking**
+**Redes e Infraestrutura | Cisco CCNA | Linux | Inteligência Artificial | Automação**
 
-Profissional certificado **Cisco Certified Network Associate (CCNA)**, **Técnico em Tecnologia da Informação pelo SENAC** e **graduando em Redes de Computadores**, com conclusão prevista para **outubro de 2026**.
+Profissional certificado **Cisco CCNA** Cisco ID No. CSCO14861495 (validade: janeiro de 2029), com formação técnica em Tecnologia da Informação pelo SENAC e trajetória profissional na indústria aeronáutica e em operações de redes (NOC).
 
-Atualmente atuo na indústria aeronáutica e desenvolvo projetos nas áreas de **Infraestrutura**, **Redes Enterprise**, **Linux**, **Virtualização**, **Python** e **Inteligência Artificial**, aplicando boas práticas de engenharia para construir soluções voltadas à automação, documentação técnica e plataformas privadas baseadas em IA.
+Atualmente desenvolvo conhecimentos e projetos práticos em redes corporativas, Linux, virtualização, automação e inteligência artificial, utilizando laboratórios próprios com VMware Workstation, Proxmox VE, EVE-NG e PNETLab, integrando experimentação técnica, documentação e boas práticas de infraestrutura.
 
----
+Tenho especial interesse no desenvolvimento de **agentes de IA especializados**, soluções de infraestrutura e aplicações de inteligência artificial para aprendizagem, investigação técnica e automação de processos.
+
+Meu objetivo é transformar conhecimento em soluções funcionais, por meio de estudo contínuo, experimentação e validação prática.
 
 # 🚀 Projeto Principal
 
-## ✈ Aircraft AI Platform
+### ✈️ Aircraft AI Platform
 
-Plataforma privada de Inteligência Artificial desenvolvida para consulta inteligente de documentação técnica utilizando **Retrieval-Augmented Generation (RAG)** e modelos locais de IA.
+**Status: Protótipo funcional — desenvolvimento temporariamente suspenso.**
 
-O projeto foi concebido para ambientes onde segurança, privacidade e processamento local são requisitos essenciais, permitindo consultas inteligentes sobre documentos técnicos sem dependência de serviços em nuvem.
+Plataforma privada de Inteligência Artificial desenvolvida em laboratório próprio para consulta semântica de documentação técnica aeronáutica, utilizando modelos locais de IA e arquitetura Retrieval-Augmented Generation (RAG).
 
-### Funcionalidades implementadas
+O projeto foi executado em ambiente virtualizado com **Proxmox VE, Ubuntu Server, Docker, Python, Ollama e ChromaDB**, priorizando privacidade, processamento local e controle sobre os dados.
 
-- ✅ IA Local (LLM)
-- ✅ Processamento de documentos PDF
-- ✅ Extração de texto
-- ✅ Chunking
-- ✅ Embeddings
-- ✅ Banco Vetorial (ChromaDB)
-- ✅ Busca Semântica (RAG)
+### ✅ Funcionalidades implementadas e testadas
 
-### Roadmap
+- Execução local de modelo de linguagem (LLM).
+- Identificação e processamento de documentos PDF.
+- Extração de texto e divisão em trechos (chunking).
+- Geração de embeddings.
+- Indexação em banco vetorial ChromaDB.
+- Recuperação semântica de informações.
+- Pipeline RAG executado de ponta a ponta.
+- Respostas geradas com base em documentação técnica.
 
-- Importação automática de documentos
-- Catálogo de documentos
-- Citação das fontes consultadas
-- Interface Web
-- API REST
-- Gerenciamento de múltiplas coleções documentais
-- Controle de acesso e autenticação
+### ⚙️ Limitações identificadas
+
+O protótipo demonstrou funcionamento, mas apresentou limitações de desempenho no hardware disponível e necessidade de aprimoramento da qualidade dos trechos recuperados e do contexto fornecido ao modelo.
+
+O desenvolvimento foi temporariamente suspenso para priorização da formação acadêmica e dos estudos de infraestrutura.
+
+### 🗺️ Roadmap — Pendente
+
+- Otimização de hardware e desempenho.
+- Aprimoramento do chunking e dos metadados.
+- Importação automática de documentos.
+- Catálogo e gerenciamento de coleções documentais.
+- Citação estruturada das fontes nas respostas.
+- Interface Web.
+- API REST.
+- Controle de acesso e autenticação.
+
+**Próxima etapa:** reavaliar a infraestrutura de processamento e retomar o desenvolvimento conforme a disponibilidade de recursos.
+
+*Projeto experimental de caráter técnico e educacional. Documentação aeronáutica confidencial não é disponibilizada publicamente.*
 
 ---
 
 # 🛠 Tecnologias
 
-## Infraestrutura
+## 🖥️ Infraestrutura e Virtualização
 
-- Linux
-- Docker
-- Portainer
+- Linux (Ubuntu Server)
 - Proxmox VE
+- VMware Workstation
+- Docker e Portainer
 - SSH
-- Git
-- GitHub
+- Git e GitHub
+- EVE-NG e PNETLab
+- Cisco Packet Tracer
 
-## Desenvolvimento
+## 🌐 Redes e Networking
+
+- Cisco IOS / IOS XE
+- Routing & Switching
+- VLANs, Trunking e EtherChannel
+- STP / RSTP
+- OSPF, EIGRP e BGP
+- IPv4 e IPv6
+- ACLs, NAT e DHCP
+- Troubleshooting de redes
+- Fundamentos de Enterprise Networking
+
+## 🤖 Inteligência Artificial
+
+- Ollama e modelos de linguagem locais (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB
+- Embeddings e busca semântica
+- Processamento e extração de texto de PDFs
+- Prompt Engineering
+- Desenvolvimento de agentes especializados
+
+## 💻 Desenvolvimento e Automação
 
 - Python
 - APIs REST
-- PostgreSQL
-- SQL
-- Engenharia de Software
-
-## Inteligência Artificial
-
-- Ollama
-- RAG
-- ChromaDB
-- Embeddings
-- LLMs Locais
-- OCR
-- Prompt Engineering
-
-## Redes
-
-- Cisco IOS / IOS XE
-- Enterprise Networking
-- Routing & Switching
-- Troubleshooting Enterprise
+- SQL e PostgreSQL
+- Automação de infraestrutura (em estudo)
+- Sistemas embarcados com ESP32 (projeto experimental)
 
 ---
 
 # 🏆 Certificações
 
-- ✅ Cisco Certified Network Associate (CCNA)
-  - **Válido até Janeiro/2029**
+### ✅ Cisco Certified Network Associate (CCNA)
+- **Status:** Certificado
+- **Cisco ID:** CSCO14861495
+- **Validade:** Janeiro de 2029
 
-- 🎯 Cisco Certified Network Professional Enterprise (CCNP Enterprise)
-  - ENCOR 350-401 *(Em preparação)*
-  - ENARSI 300-410 *(Em preparação)*
+### 📚 Certificações em preparação
+
+**Cisco Certified Network Professional (CCNP Enterprise)**
+
+- ENCOR 350-401 — Em preparação
+- ENARSI 300-410 — Em preparação
+
+**Linux Professional Institute (LPI)**
+
+- Linux Essentials 010-160 — Em preparação
+- LPIC-1 — Objetivo futuro
+---
+
+# 🎓 Formação Acadêmica e Técnica
+
+### 🎓 Superior de Tecnologia em Redes de Computadores
+
+**Centro Universitário SENAC — São Paulo**
+
+- Componentes curriculares integralmente concluídos em 2026.
+- Regularização acadêmica referente ao ENADE e colação de grau pendente.
+
+### 💻 Técnico em Tecnologia da Informação
+
+**SENAC São Paulo**
+
+- Concluído em fevereiro de 2024.
+
+### ✈️ Técnico em Manutenção de Aeronaves — Célula
+
+**Centro Educacional TAS — São José dos Campos/SP**
+
+- Diploma de habilitação profissional técnica em Manutenção de Aeronaves — Célula.
+- Formação concluída em 2017.
+- Formação em estruturas aeronáuticas, sistemas elétricos, hidráulicos, pneumáticos e sistemas de aeronaves.
+- Conhecimentos em inspeção, reparos estruturais, documentação técnica e procedimentos de manutenção aeronáutica.
+
+### 🛩️ ANAC — Conhecimentos Técnicos Aeronáuticos
+
+**Agência Nacional de Aviação Civil (ANAC)**
+
+- CCT — Mecânico de Manutenção Aeronáutica, habilitação Célula (CEL).
+- Aprovação no exame teórico da ANAC.
+- Conhecimentos técnicos relacionados à manutenção e às estruturas de aeronaves.
 
 ---
 
-# 🎓 Formação
+# # 💼 Experiência Profissional
 
-- 🎓 **Graduação em Redes de Computadores**  
-  **SENAC São Paulo**  
-  📅 Conclusão prevista: **Outubro de 2026**
+## ✈️ Latecoere Brasil
 
-- 🎓 **Técnico em Tecnologia da Informação**  
-  **SENAC São Paulo**  
-  ✅ Concluído em **Fevereiro de 2024**
+**Structural Sealing Technician | Indústria Aeronáutica**
 
----
+Atuação na fabricação de componentes aeronáuticos da família **Embraer EMB-170/190**, com foco em processos de selagem estrutural, acabamento e qualidade.
 
-# 💼 Experiência Profissional
+**Principais atividades:**
 
-## Latecoere Brasil
+- Execução de processos de selagem e retrabalhos em componentes aeronáuticos.
+- Aplicação de pinturas, retoques e acabamentos conforme procedimentos técnicos.
+- Atuação como *backup* nas atividades de finalização das centrais 1 e 3 da família EMB-170/190.
+- Cumprimento de requisitos de qualidade, segurança e documentação técnica em ambiente industrial regulamentado.
+- Comprometimento com a melhoria contínua dos processos produtivos e a redução de retrabalhos.
 
-****Structural Sealing Technician – Aerospace Industry****
+**Minha relação com a aviação**
 
-Atuação na indústria aeronáutica, seguindo processos de fabricação, qualidade e documentação técnica em ambiente altamente regulamentado.
+Sou apaixonado pela aviação e considero uma honra fazer parte da Latecoere Brasil, contribuindo com minha experiência técnica, dedicação e compromisso com a qualidade na fabricação aeronáutica.
 
 ---
 
