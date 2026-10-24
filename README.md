@@ -234,71 +234,152 @@ Consolidar os fundamentos de Linux, avançar na preparação para o CCNP Enterpr
 
 # 🛠 Stack Tecnológica
 
+### 💻 Infraestrutura, Redes e Virtualização
+
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,python,postgres,bash,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash,vscode,windows" />
 </p>
+
+**Ferramentas utilizadas em laboratório:**
+
+- VMware Workstation
+- Proxmox VE
+- EVE-NG / PNETLab
+- Cisco Packet Tracer
+- Docker / Portainer
+- SSH / Git / GitHub
+
+### 🤖 Inteligência Artificial
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker" />
+</p>
+
+**Tecnologias aplicadas no protótipo Aircraft AI Platform:**
+
+- Ollama e LLMs locais
+- RAG e ChromaDB
+- Embeddings e busca semântica
+- Processamento de documentos PDF
+- Desenvolvimento de agentes especializados
+
+### 📚 Tecnologias em desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
+</p>
+
+- Python
+- SQL e PostgreSQL
+- APIs REST
+- Automação de infraestrutura
 
 ---
 
 # 📈 Roadmap Profissional
 
-## 2026
+## 🎯 2026 — Formação e Consolidação Técnica
 
-- ✅ Cisco CCNA
-- 🎓 Conclusão da graduação em Redes de Computadores
-- 🎯 CCNP Enterprise
-- 🚀 Evolução da Aircraft AI Platform
+✅ Cisco CCNA — Certificação conquistada em janeiro de 2026.
 
-## 2027
+✅ Graduação em Redes de Computadores — SENAC — Componentes curriculares integralmente concluídos.
 
-- 🎓 Pós-graduação Hackone 2.0 (Fevereiro 2027)
-- Inteligência Artificial aplicada à Infraestrutura
-- Cloud Computing
-- Automação de Infraestrutura
+⏳ ENADE 2026 — Regularização acadêmica e colação de grau pendentes.
+
+📚 Linux Essentials 010-160 — Preparação e laboratórios práticos documentados no GitHub.
+
+📚 CCNP Enterprise — Estudos dos conteúdos ENCOR 350-401 e ENARSI 300-410.
+
+🖥️ Infraestrutura e Virtualização — Experimentos com VMware Workstation, Proxmox VE, Docker e ambientes Linux.
+
+🤖 Aircraft AI Platform — Protótipo funcional desenvolvido e testado; evolução temporariamente suspensa por limitações de hardware e priorização dos estudos.
+
+## 🚀 2027 — Especialização e Evolução Profissional
+
+🎓 **Pós-graduação em Redes & Cybersecurity 2.0 — Hackone** — Formação contratada, com início previsto para 2027. Ênfase em redes corporativas, arquitetura, segurança de redes, Blue Team (SOC) e inteligência artificial aplicada.
+
+🐧 Avançar para a certificação LPIC-1 após consolidar Linux Essentials.
+
+🌐 Prosseguir na preparação para CCNP Enterprise.
+
+🛡️ Aprofundar conhecimentos em segurança de redes, Fortinet e Blue Team.
+
+🐍 Desenvolver competências em Python e automação de infraestrutura.
+
+🤖 Avaliar as condições técnicas e os recursos necessários para retomar e evoluir a Aircraft AI Platform.
+
+## 🎯 Objetivo de Longo Prazo
+
+Consolidar uma carreira em infraestrutura de TI, redes corporativas e segurança, integrando conhecimentos de Linux, virtualização, automação e inteligência artificial.
+
+Transformar o aprendizado contínuo em competências técnicas demonstráveis por meio de projetos, laboratórios, documentação e resolução de problemas reais.
 
 ---
 
-# 📊 GitHub
+# 📚 Diário de Estudos e Laboratórios Técnicos
 
-<p>
+Este GitHub é utilizado como um ambiente de documentação e acompanhamento da minha evolução técnica em Tecnologia da Informação.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dias0001&show_icons=true&theme=tokyonight&hide_border=true"/>
+Meu objetivo é registrar, de forma organizada e contínua, os conhecimentos adquiridos durante os estudos, os laboratórios executados, os problemas encontrados e as soluções aplicadas.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias0001&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🔬 O que será documentado
 
-</p>
+- 🐧 **Linux:** comandos, administração de sistemas, serviços e preparação para certificações LPI.
+- 🌐 **Redes Cisco:** configurações, protocolos, topologias, troubleshooting e laboratórios CCNP.
+- 🖥️ **Infraestrutura:** virtualização, servidores, Proxmox VE, VMware e Docker.
+- 🛡️ **Cybersecurity:** segurança de redes, firewalls e laboratórios de defesa cibernética.
+- 🐍 **Automação:** Python, scripts e aplicações práticas em infraestrutura.
+- 🤖 **Inteligência Artificial:** experimentos com LLMs locais, agentes especializados e arquiteturas RAG.
+
+### 🎯 Objetivo da documentação
+
+Construir uma base de conhecimento técnico que permita:
+
+- Revisar conteúdos estudados.
+- Reproduzir laboratórios e validar configurações.
+- Registrar erros, diagnósticos e soluções.
+- Acompanhar minha evolução profissional.
+- Desenvolver materiais didáticos para futuras atividades como instrutor.
+
+**Filosofia de aprendizado:** estudar, compreender, praticar, documentar e compartilhar conhecimento.
+
+> Este repositório representa uma jornada contínua de aprendizado. Os conteúdos refletem experiências práticas, estudos em andamento e conhecimentos construídos ao longo do tempo.
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Busco atuar no desenvolvimento de soluções voltadas para:
+Busco desenvolver minha carreira na área de **Segurança de Redes e Infraestrutura de TI**, com foco em administração de firewalls, VPNs, políticas de acesso, monitoramento de segurança e defesa cibernética (Blue Team).
 
-- Enterprise Networking
-- Network Infrastructure
-- Linux Administration
-- Cloud Computing
-- Infrastructure Automation
-- Artificial Intelligence
-- Software Engineering
-- AI Platforms for Technical Documentation
+Minha trajetória reúne certificação Cisco CCNA, experiência em operações de redes (NOC) e prática em laboratórios de redes, Linux e virtualização.
+
+Atualmente, estou consolidando meus conhecimentos em redes corporativas, administração Linux e fundamentos de segurança, com planejamento de evolução em tecnologias Fortinet, análise de logs, SIEM e resposta a incidentes.
+
+A futura pós-graduação em **Redes & Cybersecurity 2.0 — Hackone** faz parte desse desenvolvimento, juntamente com a preparação para certificações técnicas e a documentação contínua de laboratórios no GitHub.
+
+**Objetivo:** construir competências práticas para atuar como Analista de Segurança de Redes, integrando infraestrutura, redes corporativas e segurança defensiva.
 
 ---
 
 # 💡 Filosofia
 
-Acredito que a melhor forma de aprender tecnologia é construindo soluções reais.
+Acredito que a melhor forma de aprender tecnologia é unir **fundamentos teóricos, prática em laboratório e resolução de problemas reais**.
 
-Cada projeto é desenvolvido com foco em documentação, boas práticas de engenharia, versionamento, infraestrutura e evolução contínua.
+Cada projeto e estudo é desenvolvido com foco em documentação técnica, boas práticas, versionamento, análise de resultados e evolução contínua.
+
+Meu compromisso é construir uma base sólida de conhecimento, registrar os desafios encontrados e compartilhar experiências que possam contribuir tanto para meu desenvolvimento profissional quanto para futuras atividades como instrutor.
+
+**Estudar. Compreender. Praticar. Documentar. Compartilhar.**
 
 ---
 
 # 📫 Contato
 
-- GitHub: **github.com/dias0001**
-- LinkedIn: **linkedin.com/in/luiz-gustavo-chaves-dias**
+Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades nas áreas de Redes, Infraestrutura de TI e Segurança de Redes.
+
+- 💻 **GitHub:** [github.com/dias0001](https://github.com/dias0001)
+- 💼 **LinkedIn:** [Luiz Gustavo Chaves Dias](https://www.linkedin.com/in/luiz-gustavo-chaves-dias)
+- ✉️ **E-mail profissional:** [Inserir endereço profissional]
 
 ---
 
