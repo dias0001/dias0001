@@ -379,7 +379,7 @@ Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades n
 
 - 💻 **GitHub:** [github.com/dias0001](https://github.com/dias0001)
 - 💼 **LinkedIn:** [Luiz Gustavo Chaves Dias](https://www.linkedin.com/in/luiz-gustavo-chaves-dias)
-- ✉️ **E-mail profissional:** [Inserir endereço profissional]
+- ✉️ **E-mail profissional:** l.g.chaves.d@gmail.com
 
 ---
 
