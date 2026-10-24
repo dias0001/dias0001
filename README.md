@@ -383,4 +383,16 @@ Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades n
 
 ---
 
+---
+
+# ✈️ Gratidão e Compromisso Profissional
+
+Tenho orgulho de fazer parte da **Latecoere Brasil**, onde exerço minhas atividades com dedicação, responsabilidade e compromisso com a qualidade.
+
+Sou grato pela oportunidade de contribuir com a indústria aeronáutica, uma área pela qual tenho grande paixão.
+
+Minha evolução profissional em tecnologia caminha ao lado do respeito e do compromisso que mantenho com minhas responsabilidades atuais.
+
+---
+
 > **"Transformando estudo em engenharia, um projeto por vez."**
