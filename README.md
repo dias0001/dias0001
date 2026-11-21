@@ -109,7 +109,7 @@ Formação técnica em sistemas aeronáuticos, estruturas, inspeções, manuten�
 
 **Hackone — Redes & Cybersecurity 2.0**
 
-- Início previsto para 2027.
+- Início previsto para Agosto de 2027.
 - Ênfase em arquitetura de redes, segurança, firewalls, Blue Team e tecnologias relacionadas.
 
 ---
@@ -426,7 +426,7 @@ Meu objetivo é construir uma base de conhecimento reutilizável para revisão, 
 Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades em Redes, Infraestrutura de TI e Cybersecurity.
 
 - **GitHub:** [github.com/dias0001](https://github.com/dias0001)
-- **LinkedIn:** Luiz Gustavo Chaves Dias
+- **LinkedIn:** www.linkedin.com/in/luiz-gustavo-chaves-dias
 - **E-mail:** l.g.chaves.d@gmail.com
 
 ---
