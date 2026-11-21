@@ -57,23 +57,54 @@ Consolidar minha carreira em **Infraestrutura de TI, Segurança de Redes e Cyber
 
 ## 🎓 Formação Acadêmica
 
-### 🛡️ Pós-graduação — Defesa Cibernética / Blue Team Operations
 
-**TI Academy + Anhanguera**
+### 🛡️ Pós-graduação — Defesa Cibernética | Blue Team Operations
 
-- **Início:** Novembro de 2026.
-- **Carga horária:** 360 horas.
-- **Status:** Em andamento.
+**Instituição:** TI Academy + Anhanguera  
+**Carga horária:** 360 horas  
+**Início:** Novembro de 2026  
+**Status:** Em andamento
 
-Estudos direcionados a:
+Especialização voltada à defesa cibernética, segurança de redes, gestão de riscos, monitoramento de ameaças, operações de SOC, investigação de incidentes e aplicação de tecnologias de segurança.
 
-- Fundamentos de defesa cibernética.
-- Gestão de riscos e proteção de ativos.
-- Monitoramento e investigação de ameaças.
-- Operações de segurança.
-- Governança e resposta a incidentes.
+#### 📚 Grade curricular e progresso acadêmico
 
-A documentação autoral acompanha a evolução das disciplinas, sem reprodução de materiais acadêmicos restritos.
+| Disciplina | Início | Situação | Progresso |
+|---|---|---|---|
+| Ambientação | 12/11/2026 | ✅ Concluída | 100% |
+| Fundamentos de Defesa Cibernética e Gestão de Riscos | 13/11/2026 | 🔄 Em andamento | 50% |
+| Segurança em Redes de Computadores | 13/12/2026 | 🔒 Aguardando liberação | — |
+| Ética, Governança e Segurança de Dados | 12/01/2027 | 🔒 Aguardando liberação | — |
+| Segurança em Cloud Computing | 11/02/2027 | 🔒 Aguardando liberação | — |
+| Cyber Threat Intelligence, OSINT e OPSEC | 13/03/2027 | 🔒 Aguardando liberação | — |
+| SIEM, Logging e Detection Engineering | 12/04/2027 | 🔒 Aguardando liberação | — |
+| Forense Computacional e Network Forensics | 12/05/2027 | 🔒 Aguardando liberação | — |
+| Threat Hunting e Incident Response | 11/06/2027 | 🔒 Aguardando liberação | — |
+| Malware Analysis e Hardening Defensivo | 11/07/2027 | 🔒 Aguardando liberação | — |
+| Cloud Security, Purple Team e IA Aplicada à Segurança | 10/08/2027 | 🔒 Aguardando liberação | — |
+
+#### 🎯 Competências em desenvolvimento
+
+- Fundamentos de defesa cibernética e gestão de riscos.
+- Segurança de redes e infraestrutura.
+- Governança e proteção de dados.
+- Segurança em ambientes de nuvem.
+- Inteligência de ameaças, OSINT e OPSEC.
+- SIEM, análise de logs e engenharia de detecção.
+- Forense computacional e análise de tráfego.
+- Threat Hunting e resposta a incidentes.
+- Análise de malware e hardening defensivo.
+- Purple Team e inteligência artificial aplicada à segurança.
+
+#### 📝 Documentação dos estudos
+
+Os conhecimentos adquiridos são registrados progressivamente em repositório privado no GitHub, com anotações autorais, análises técnicas e correlação entre conceitos.
+
+**Metodologia:** Estudar. Compreender. Praticar. Documentar. Compartilhar.
+
+> **Última atualização:** 21/11/2026.  
+> O progresso corresponde às informações apresentadas no ambiente acadêmico nessa data. As disciplinas futuras seguem o calendário de liberação da instituição.
+
 
 ### 🌐 Superior de Tecnologia em Redes de Computadores
 
