@@ -1,398 +1,448 @@
-#  👋 Olá! Eu sou Luiz Gustavo
 
-**Redes e Infraestrutura | Cisco CCNA | Linux | Inteligência Artificial | Automação**
+# 👋 Olá! Eu sou Luiz Gustavo
 
-Profissional certificado **Cisco CCNA** Cisco ID No. CSCO14861495 (validade: janeiro de 2029), com formação técnica em Tecnologia da Informação pelo SENAC e trajetória profissional na indústria aeronáutica e em operações de redes (NOC).
+### 🌐 Redes & Infraestrutura | Cisco CCNA | Cybersecurity & Blue Team | Linux | Homelab
 
-Atualmente desenvolvo conhecimentos e projetos práticos em redes corporativas, Linux, virtualização, automação e inteligência artificial, utilizando laboratórios próprios com VMware Workstation, Proxmox VE, EVE-NG e PNETLab, integrando experimentação técnica, documentação e boas práticas de infraestrutura.
+Profissional de Tecnologia da Informação, certificado **Cisco CCNA**, com formação técnica em TI pelo SENAC-SP, componentes curriculares concluídos na graduação em Redes de Computadores e experiência profissional em operações de redes (NOC) e na indústria aeronáutica.
 
-Tenho especial interesse no desenvolvimento de **agentes de IA especializados**, soluções de infraestrutura e aplicações de inteligência artificial para aprendizagem, investigação técnica e automação de processos.
+Minha trajetória combina experiência operacional, fundamentos de redes corporativas, troubleshooting, Linux, virtualização e desenvolvimento de projetos técnicos em laboratório próprio.
 
-Meu objetivo é transformar conhecimento em soluções funcionais, por meio de estudo contínuo, experimentação e validação prática.
+Atualmente, direciono minha evolução profissional para **Segurança de Redes e Defesa Cibernética (Blue Team)**, com foco em monitoramento, análise de logs, SIEM, investigação de incidentes e operações de segurança.
 
-# 🚀 Projeto Principal
+Sou estudante de pós-graduação em **Defesa Cibernética — Blue Team Operations**, pela TI Academy + Anhanguera, e mantenho estudos complementares em Linux, Cisco CCNP Enterprise e Next Generation SOC.
 
-### ✈️ Aircraft AI Platform
-
-**Status: Protótipo funcional — desenvolvimento temporariamente suspenso.**
-
-Plataforma privada de Inteligência Artificial desenvolvida em laboratório próprio para consulta semântica de documentação técnica aeronáutica, utilizando modelos locais de IA e arquitetura Retrieval-Augmented Generation (RAG).
-
-O projeto foi executado em ambiente virtualizado com **Proxmox VE, Ubuntu Server, Docker, Python, Ollama e ChromaDB**, priorizando privacidade, processamento local e controle sobre os dados.
-
-### ✅ Funcionalidades implementadas e testadas
-
-- Execução local de modelo de linguagem (LLM).
-- Identificação e processamento de documentos PDF.
-- Extração de texto e divisão em trechos (chunking).
-- Geração de embeddings.
-- Indexação em banco vetorial ChromaDB.
-- Recuperação semântica de informações.
-- Pipeline RAG executado de ponta a ponta.
-- Respostas geradas com base em documentação técnica.
-
-### ⚙️ Limitações identificadas
-
-O protótipo demonstrou funcionamento, mas apresentou limitações de desempenho no hardware disponível e necessidade de aprimoramento da qualidade dos trechos recuperados e do contexto fornecido ao modelo.
-
-O desenvolvimento foi temporariamente suspenso para priorização da formação acadêmica e dos estudos de infraestrutura.
-
-### 🗺️ Roadmap — Pendente
-
-- Otimização de hardware e desempenho.
-- Aprimoramento do chunking e dos metadados.
-- Importação automática de documentos.
-- Catálogo e gerenciamento de coleções documentais.
-- Citação estruturada das fontes nas respostas.
-- Interface Web.
-- API REST.
-- Controle de acesso e autenticação.
-
-**Próxima etapa:** reavaliar a infraestrutura de processamento e retomar o desenvolvimento conforme a disponibilidade de recursos.
-
-*Projeto experimental de caráter técnico e educacional. Documentação aeronáutica confidencial não é disponibilizada publicamente.*
+> **Filosofia de aprendizado:** Estudar. Compreender. Praticar. Documentar. Compartilhar.
 
 ---
 
-# 🛠 Tecnologias
+## 🎯 Objetivo Profissional
 
-## 🖥️ Infraestrutura e Virtualização
+Consolidar minha carreira em **Infraestrutura de TI, Segurança de Redes e Cybersecurity**, com evolução para atividades de SOC e Blue Team.
 
-- Linux (Ubuntu Server)
-- Proxmox VE
-- VMware Workstation
-- Docker e Portainer
-- SSH
-- Git e GitHub
-- EVE-NG e PNETLab
-- Cisco Packet Tracer
+Áreas de interesse:
 
-## 🌐 Redes e Networking
+- Security Operations Center (SOC).
+- Monitoramento e investigação de eventos de segurança.
+- Administração de redes corporativas.
+- Firewalls, VPNs e controle de acesso.
+- Linux e infraestrutura de servidores.
+- SIEM, SOAR e inteligência de ameaças.
+- Troubleshooting e análise de tráfego.
+- Automação e inteligência artificial aplicada à infraestrutura.
 
-- Cisco IOS / IOS XE
-- Routing & Switching
-- VLANs, Trunking e EtherChannel
-- STP / RSTP
-- OSPF, EIGRP e BGP
-- IPv4 e IPv6
-- ACLs, NAT e DHCP
-- Troubleshooting de redes
-- Fundamentos de Enterprise Networking
-
-## 🤖 Inteligência Artificial
-
-- Ollama e modelos de linguagem locais (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- ChromaDB
-- Embeddings e busca semântica
-- Processamento e extração de texto de PDFs
-- Prompt Engineering
-- Desenvolvimento de agentes especializados
-
-## 💻 Desenvolvimento e Automação
-
-- Python
-- APIs REST
-- SQL e PostgreSQL
-- Automação de infraestrutura (em estudo)
-- Sistemas embarcados com ESP32 (projeto experimental)
+**Meu diferencial:** unir experiência prática em NOC, certificação Cisco CCNA, conhecimentos de infraestrutura e documentação técnica autoral.
 
 ---
 
-# 🏆 Certificações
+## 🏆 Certificações
 
-### ✅ Cisco Certified Network Associate (CCNA)
-- **Status:** Certificado
-- **Cisco ID:** CSCO14861495
-- **Validade:** Janeiro de 2029
+### ✅ Cisco Certified Network Associate — CCNA
+
+- **Certificação:** Cisco CCNA 200-301.
+- **Conquistada:** Janeiro de 2026.
+- **Validade:** Janeiro de 2029.
+- **Status:** Ativa.
 
 ### 📚 Certificações em preparação
 
-**Cisco Certified Network Professional (CCNP Enterprise)**
+| Certificação | Situação |
+|---|---|
+| Linux Essentials 010-160 | Preparação para exame |
+| CCNP Enterprise — ENCOR 350-401 | Estudos em andamento |
+| CCNP Enterprise — ENARSI 300-410 | Estudos em andamento |
+| LPIC-1 | Objetivo futuro |
+| Fortinet | Planejamento futuro |
 
-- ENCOR 350-401 — Em preparação
-- ENARSI 300-410 — Em preparação
-
-**Linux Professional Institute (LPI)**
-
-- Linux Essentials 010-160 — Em preparação
-- LPIC-1 — Objetivo futuro
 ---
 
-# 🎓 Formação Acadêmica e Técnica
+## 🎓 Formação Acadêmica
 
-### 🎓 Superior de Tecnologia em Redes de Computadores
+### 🛡️ Pós-graduação — Defesa Cibernética / Blue Team Operations
+
+**TI Academy + Anhanguera**
+
+- **Início:** Novembro de 2026.
+- **Carga horária:** 360 horas.
+- **Status:** Em andamento.
+
+Estudos direcionados a:
+
+- Fundamentos de defesa cibernética.
+- Gestão de riscos e proteção de ativos.
+- Monitoramento e investigação de ameaças.
+- Operações de segurança.
+- Governança e resposta a incidentes.
+
+A documentação autoral acompanha a evolução das disciplinas, sem reprodução de materiais acadêmicos restritos.
+
+### 🌐 Superior de Tecnologia em Redes de Computadores
 
 **Centro Universitário SENAC — São Paulo**
 
-- Componentes curriculares integralmente concluídos em 2026.
-- Regularização acadêmica referente ao ENADE e colação de grau pendente.
+- Componentes curriculares concluídos em 2026.
+- ENADE e colação de grau pendentes de regularização.
 
 ### 💻 Técnico em Tecnologia da Informação
 
-**SENAC São Paulo**
+**SENAC São Paulo — Concluído em fevereiro de 2024**
 
-- Concluído em fevereiro de 2024.
+Formação abrangendo:
+
+- Redes de computadores.
+- Hardware e manutenção.
+- Sistemas operacionais.
+- Linux e virtualização.
+- Banco de dados.
+- Desenvolvimento Web.
+- Infraestrutura e suporte técnico.
+- Fundamentos de segurança da informação.
 
 ### ✈️ Técnico em Manutenção de Aeronaves — Célula
 
-**Centro Educacional TAS — São José dos Campos/SP**
+**Centro Educacional TAS — Concluído em 2017**
 
-- Diploma de habilitação profissional técnica em Manutenção de Aeronaves — Célula.
-- Formação concluída em 2017.
-- Formação em estruturas aeronáuticas, sistemas elétricos, hidráulicos, pneumáticos e sistemas de aeronaves.
-- Conhecimentos em inspeção, reparos estruturais, documentação técnica e procedimentos de manutenção aeronáutica.
+Formação técnica em sistemas aeronáuticos, estruturas, inspeções, manutenção e documentação técnica.
 
-### 🛩️ ANAC — Conhecimentos Técnicos Aeronáuticos
+**ANAC:** aprovado no exame teórico para CCT — Mecânico de Manutenção Aeronáutica, habilitação Célula.
 
-**Agência Nacional de Aviação Civil (ANAC)**
+### 📘 Formação complementar planejada
 
-- CCT — Mecânico de Manutenção Aeronáutica, habilitação Célula (CEL).
-- Aprovação no exame teórico da ANAC.
-- Conhecimentos técnicos relacionados à manutenção e às estruturas de aeronaves.
+**Hackone — Redes & Cybersecurity 2.0**
+
+- Início previsto para 2027.
+- Ênfase em arquitetura de redes, segurança, firewalls, Blue Team e tecnologias relacionadas.
 
 ---
 
-# # 💼 Experiência Profissional
+## 💼 Experiência Profissional
 
-## ✈️ Latecoere Brasil
+### 🌐 Operações de Redes — NOC
 
-**Structural Sealing Technician | Indústria Aeronáutica**
+**Pro Networks | Dezembro de 2025 a Maio de 2026**
 
-Atuação na fabricação de componentes aeronáuticos da família **Embraer EMB-170/190**, com foco em processos de selagem estrutural, acabamento e qualidade.
+Experiência em monitoramento, diagnóstico e suporte operacional de infraestrutura de provedores de serviços de Internet.
 
-**Principais atividades:**
+Principais atividades e tecnologias:
 
-- Execução de processos de selagem e retrabalhos em componentes aeronáuticos.
-- Aplicação de pinturas, retoques e acabamentos conforme procedimentos técnicos.
-- Atuação como *backup* nas atividades de finalização das centrais 1 e 3 da família EMB-170/190.
-- Cumprimento de requisitos de qualidade, segurança e documentação técnica em ambiente industrial regulamentado.
-- Comprometimento com a melhoria contínua dos processos produtivos e a redução de retrabalhos.
+- Monitoramento de redes e serviços.
+- Análise de alertas e eventos operacionais.
+- Troubleshooting TCP/IP.
+- Roteamento e switching.
+- Diagnóstico de conectividade.
+- Ambientes PPPoE, IPoE e CGNAT.
+- Equipamentos Cisco, Huawei, MikroTik e Datacom.
+- Ferramentas Zabbix, Grafana, The Dude e Winbox.
+- Escalonamento técnico e acompanhamento de incidentes.
 
-**Minha relação com a aviação**
+**Relação com Cybersecurity:** a experiência em NOC fornece fundamentos importantes para análise de eventos, correlação de informações, investigação e resposta operacional.
 
-Sou apaixonado pela aviação e considero uma honra fazer parte da Latecoere Brasil, contribuindo com minha experiência técnica, dedicação e compromisso com a qualidade na fabricação aeronáutica.
+### ✈️ Latecoere Brasil
+
+**Structural Sealing Technician | Maio de 2026 — Atual**
+
+Atuação na indústria aeronáutica, em processos de fabricação e acabamento de componentes da família Embraer EMB-170/190.
+
+Principais responsabilidades:
+
+- Selagem estrutural e retrabalhos.
+- Pintura, retoques e acabamento.
+- Apoio às atividades de finalização.
+- Cumprimento de procedimentos técnicos e requisitos de qualidade.
+- Segurança operacional e rastreabilidade de processos.
+
+Minha experiência na aviação reforça valores que também considero fundamentais em TI: **disciplina técnica, documentação, confiabilidade, segurança e responsabilidade operacional**.
 
 ---
 
-# # 📚 Estudos e Desenvolvimento Técnico
+## 🖥️ Homelab — Infraestrutura de Estudos
 
-### 🐧 Linux — Foco atual
+Mantenho um ambiente próprio para experimentação, estudos e validação de tecnologias de redes, Linux e segurança.
 
-- Linux Essentials 010-160 — Em preparação.
-- Administração básica de sistemas Linux.
-- Terminal Bash, arquivos, diretórios e permissões.
-- Gerenciamento de pacotes e serviços.
-- Git e GitHub para documentação e versionamento.
-- LPIC-1 — Próxima etapa após Linux Essentials.
+### 🔧 Infraestrutura
 
-### 🌐 Cisco Enterprise Networking
+- Servidor Dell com Proxmox VE.
+- Máquinas virtuais Ubuntu Server e Kali Linux.
+- EVE-NG para simulação de topologias.
+- PNETLab e Cisco Packet Tracer.
+- Docker e ambientes virtualizados.
+- Equipamentos físicos de rede.
+- VMware Workstation em atividades de laboratório.
 
-- CCNP Enterprise — Trilha de estudos em andamento.
-- ENCOR 350-401 — Em preparação.
-- ENARSI 300-410 — Em preparação.
-- Routing & Switching e protocolos de roteamento.
-- Troubleshooting de redes corporativas.
-- Laboratórios práticos com Cisco Packet Tracer, EVE-NG e PNETLab.
+### 🎯 Objetivos do homelab
 
-### 🖥️ Infraestrutura e Virtualização
+- Consolidar conhecimentos de redes corporativas.
+- Estudar Linux e administração de servidores.
+- Reproduzir cenários de troubleshooting.
+- Desenvolver laboratórios de segurança defensiva.
+- Explorar monitoramento e análise de logs.
+- Documentar configurações, resultados e limitações.
 
-**Tecnologias utilizadas em laboratório:**
+**Segurança:** os experimentos de Cybersecurity são destinados a ambientes controlados, isolados e autorizados.
 
-- VMware Workstation.
+Projetos planejados não são apresentados como implantações concluídas.
+
+---
+
+## 🛡️ Cybersecurity & Blue Team
+
+Minha formação em defesa cibernética combina estudos acadêmicos, leitura técnica e documentação autoral.
+
+### 📖 Next Generation SOC & Inteligência Artificial
+
+Estudo do livro *Next Generation SOC & Inteligência Artificial*, da Editora Hackone.
+
+**Capítulos documentados:**
+
+- Capítulo 01 — Fundamentos e evolução do SOC.
+- Capítulo 02 — Modelo Operacional & Frameworks.
+- Capítulo 03 — Os Fundamentos Técnicos de NG-SOC (em andamento).
+
+Temas estudados:
+
+- SOC tradicional e NG-SOC.
+- Modelos operacionais e governança.
+- MITRE ATT&CK e frameworks de segurança.
+- SIEM, SOAR, EDR e NDR.
+- Coleta, parsing e correlação de logs.
+- Threat Hunting e inteligência de ameaças.
+- UEBA e análise comportamental.
+- Inteligência artificial aplicada às operações de segurança.
+
+### 🎓 Blue Team Operations
+
+Estudos de pós-graduação com foco em fundamentos de defesa cibernética, gestão de riscos e evolução para operações de segurança.
+
+A documentação é desenvolvida em repositórios privados de estudo.
+
+**Metodologia:** leitura, compreensão, análise crítica e registro autoral dos conhecimentos adquiridos.
+
+---
+
+## 🐧 Linux — Prioridade Atual
+
+Preparação para a certificação **Linux Essentials 010-160**.
+
+### Conteúdos e práticas
+
+- Terminal e comandos Linux.
+- Sistema de arquivos.
+- Permissões e usuários.
+- Gerenciamento de pacotes.
+- Serviços e processos.
+- Administração básica de sistemas.
+- Fundamentos de redes e segurança.
+- Git e GitHub.
+- Laboratórios com Ubuntu.
+
+Os exercícios são documentados com comandos, evidências, explicações e resultados.
+
+**Próxima etapa planejada:** LPIC-1, após consolidar Linux Essentials.
+
+---
+
+## 🌐 Cisco Enterprise Networking
+
+Estudos direcionados ao **CCNP Enterprise**, com foco em ENCOR e ENARSI.
+
+### Principais tecnologias
+
+- Cisco IOS / IOS XE.
+- Switching e VLANs.
+- STP, RSTP e EtherChannel.
+- OSPF, EIGRP e BGP.
+- IPv4 e IPv6.
+- ACLs, NAT e DHCP.
+- Roteamento corporativo.
+- SD-WAN.
+- Troubleshooting.
+- Segurança e fundamentos de automação.
+
+Os estudos incluem revisão teórica, análise de protocolos e laboratórios documentados.
+
+---
+
+## 🤖 Projeto Aircraft AI Platform
+
+**Status:** Protótipo funcional — desenvolvimento temporariamente suspenso.
+
+Plataforma experimental de inteligência artificial para consulta semântica de documentação técnica aeronáutica.
+
+### Arquitetura utilizada
+
 - Proxmox VE.
 - Ubuntu Server.
-- Docker e Portainer.
-- Redes virtuais e administração de máquinas virtuais.
-
-### 🤖 Inteligência Artificial
-
-**Conhecimentos aplicados no projeto Aircraft AI Platform:**
-
-- Ollama e modelos de linguagem locais.
-- Arquitetura RAG.
-- ChromaDB e embeddings.
-- Processamento de documentos PDF.
-- Desenvolvimento e configuração de agentes especializados.
-
-**Status:** Projeto experimental funcional, temporariamente suspenso.
-
-### 💻 Desenvolvimento e Automação
-
-**Conhecimentos em desenvolvimento:**
-
+- Docker.
 - Python.
-- APIs REST.
-- SQL e PostgreSQL.
-- Automação de infraestrutura.
+- Ollama e LLMs locais.
+- ChromaDB.
+- Retrieval-Augmented Generation (RAG).
 
-### 🎯 Direção dos estudos
+### Funcionalidades implementadas
 
-Consolidar os fundamentos de Linux, avançar na preparação para o CCNP Enterprise e desenvolver competências em automação, infraestrutura e segurança defensiva, por meio de estudos estruturados e laboratórios documentados.
+- Processamento de documentos PDF.
+- Extração e divisão de textos em trechos.
+- Geração de embeddings.
+- Indexação vetorial.
+- Recuperação semântica.
+- Pipeline RAG funcional.
+- Geração de respostas com contexto documental.
 
----
+### Limitações identificadas
 
-# 🛠 Stack Tecnológica
+- Restrições de desempenho do hardware.
+- Necessidade de aprimoramento da recuperação semântica.
+- Melhorias pendentes no tratamento de documentos e metadados.
 
-### 💻 Infraestrutura, Redes e Virtualização
+### Evoluções futuras
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash,vscode,windows" />
-</p>
+- Reavaliação de hardware.
+- Otimização de desempenho.
+- Melhoria do pipeline RAG.
+- Interface Web.
+- API REST.
+- Controle de acesso.
+- Referências estruturadas às fontes.
 
-**Ferramentas utilizadas em laboratório:**
-
-- VMware Workstation
-- Proxmox VE
-- EVE-NG / PNETLab
-- Cisco Packet Tracer
-- Docker / Portainer
-- SSH / Git / GitHub
-
-### 🤖 Inteligência Artificial
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker" />
-</p>
-
-**Tecnologias aplicadas no protótipo Aircraft AI Platform:**
-
-- Ollama e LLMs locais
-- RAG e ChromaDB
-- Embeddings e busca semântica
-- Processamento de documentos PDF
-- Desenvolvimento de agentes especializados
-
-### 📚 Tecnologias em desenvolvimento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
-</p>
-
-- Python
-- SQL e PostgreSQL
-- APIs REST
-- Automação de infraestrutura
+**Observação:** projeto experimental privado. Documentação aeronáutica confidencial não é disponibilizada publicamente.
 
 ---
 
-# 📈 Roadmap Profissional
+## 🛠️ Stack Tecnológica
 
-## 🎯 2026 — Formação e Consolidação Técnica
+### Redes e Infraestrutura
 
-✅ Cisco CCNA — Certificação conquistada em janeiro de 2026.
+`Cisco` `Huawei` `MikroTik` `TCP/IP` `OSPF` `BGP` `VLAN` `IPv6` `VPN`
 
-✅ Graduação em Redes de Computadores — SENAC — Componentes curriculares integralmente concluídos.
+### Linux e Virtualização
 
-⏳ ENADE 2026 — Regularização acadêmica e colação de grau pendentes.
+`Linux` `Ubuntu Server` `Kali Linux` `Proxmox VE` `VMware` `Docker` `EVE-NG` `PNETLab`
 
-📚 Linux Essentials 010-160 — Preparação e laboratórios práticos documentados no GitHub.
+### Monitoramento e Segurança
 
-📚 CCNP Enterprise — Estudos dos conteúdos ENCOR 350-401 e ENARSI 300-410.
+`Zabbix` `Grafana` `Syslog` `SIEM (estudo)` `SOAR (estudo)` `Blue Team` `MITRE ATT&CK`
 
-🖥️ Infraestrutura e Virtualização — Experimentos com VMware Workstation, Proxmox VE, Docker e ambientes Linux.
+### Desenvolvimento e IA
 
-🤖 Aircraft AI Platform — Protótipo funcional desenvolvido e testado; evolução temporariamente suspensa por limitações de hardware e priorização dos estudos.
+`Python` `Git` `GitHub` `SQL` `PostgreSQL` `Ollama` `RAG` `ChromaDB` `LLMs`
 
-## 🚀 2027 — Especialização e Evolução Profissional
-
-🎓 **Pós-graduação em Redes & Cybersecurity 2.0 — Hackone** — Formação contratada, com início previsto para 2027. Ênfase em redes corporativas, arquitetura, segurança de redes, Blue Team (SOC) e inteligência artificial aplicada.
-
-🐧 Avançar para a certificação LPIC-1 após consolidar Linux Essentials.
-
-🌐 Prosseguir na preparação para CCNP Enterprise.
-
-🛡️ Aprofundar conhecimentos em segurança de redes, Fortinet e Blue Team.
-
-🐍 Desenvolver competências em Python e automação de infraestrutura.
-
-🤖 Avaliar as condições técnicas e os recursos necessários para retomar e evoluir a Aircraft AI Platform.
-
-## 🎯 Objetivo de Longo Prazo
-
-Consolidar uma carreira em infraestrutura de TI, redes corporativas e segurança, integrando conhecimentos de Linux, virtualização, automação e inteligência artificial.
-
-Transformar o aprendizado contínuo em competências técnicas demonstráveis por meio de projetos, laboratórios, documentação e resolução de problemas reais.
+> As tecnologias listadas incluem experiência profissional, práticas de laboratório e conteúdos em estudo. O nível de domínio varia conforme a tecnologia.
 
 ---
 
-# 📚 Diário de Estudos e Laboratórios Técnicos
+## 📂 Repositórios e Documentação Técnica
 
-Este GitHub é utilizado como um ambiente de documentação e acompanhamento da minha evolução técnica em Tecnologia da Informação.
+### 🐧 Linux Essentials
 
-Meu objetivo é registrar, de forma organizada e contínua, os conhecimentos adquiridos durante os estudos, os laboratórios executados, os problemas encontrados e as soluções aplicadas.
+[linux-essentials](https://github.com/dias0001/linux-essentials)
 
-### 🔬 O que será documentado
+Laboratórios práticos de Linux, comandos, administração básica, Bash e Git.
 
-- 🐧 **Linux:** comandos, administração de sistemas, serviços e preparação para certificações LPI.
-- 🌐 **Redes Cisco:** configurações, protocolos, topologias, troubleshooting e laboratórios CCNP.
-- 🖥️ **Infraestrutura:** virtualização, servidores, Proxmox VE, VMware e Docker.
-- 🛡️ **Cybersecurity:** segurança de redes, firewalls e laboratórios de defesa cibernética.
-- 🐍 **Automação:** Python, scripts e aplicações práticas em infraestrutura.
-- 🤖 **Inteligência Artificial:** experimentos com LLMs locais, agentes especializados e arquiteturas RAG.
+### 🌐 CCNP Enterprise
 
-### 🎯 Objetivo da documentação
+[ccnp-enterprise-estudos](https://github.com/dias0001/ccnp-enterprise-estudos)
 
-Construir uma base de conhecimento técnico que permita:
+Documentação técnica, protocolos de roteamento, switching, SD-WAN e troubleshooting.
 
-- Revisar conteúdos estudados.
-- Reproduzir laboratórios e validar configurações.
-- Registrar erros, diagnósticos e soluções.
-- Acompanhar minha evolução profissional.
-- Desenvolver materiais didáticos para futuras atividades como instrutor.
+### 🛡️ Cybersecurity Labs
 
-**Filosofia de aprendizado:** estudar, compreender, praticar, documentar e compartilhar conhecimento.
+[cybersecurity-labs](https://github.com/dias0001/cybersecurity-labs)
 
-> Este repositório representa uma jornada contínua de aprendizado. Os conteúdos refletem experiências práticas, estudos em andamento e conhecimentos construídos ao longo do tempo.
+Laboratórios de segurança, Kali Linux, virtualização e fundamentos de Cybersecurity.
+
+### 🖥️ Dell Homelab
+
+[dell-homelab-network-engineering](https://github.com/dias0001/dell-homelab-network-engineering)
+
+Infraestrutura de laboratório, Proxmox VE, simulação de redes e engenharia de redes.
+
+### 🔧 Git Beyond Commit
+
+[git-beyond-commit](https://github.com/dias0001/git-beyond-commit)
+
+Estudo prático de Git, histórico, versionamento e troubleshooting.
+
+### 🗄️ Banco de Dados e SQL
+
+[BANCO_DE_DADOS_E_SQL](https://github.com/dias0001/BANCO_DE_DADOS_E_SQL)
+
+Estudos de bancos de dados, SQL Server, MySQL, Oracle, T-SQL e PL/SQL.
+
+### 📖 NG-SOC e Defesa Cibernética
+
+Estudos autorais organizados em repositórios privados, incluindo:
+
+- Next Generation SOC & Inteligência Artificial.
+- Defesa Cibernética — Blue Team Operations.
+
+A documentação respeita as condições de uso dos materiais estudados e a confidencialidade das informações.
 
 ---
 
-# 🎯 Objetivo Profissional
+## 📈 Roadmap Profissional
 
-Busco desenvolver minha carreira na área de **Segurança de Redes e Infraestrutura de TI**, com foco em administração de firewalls, VPNs, políticas de acesso, monitoramento de segurança e defesa cibernética (Blue Team).
+### 🎯 2026 — Consolidação Técnica
 
-Minha trajetória reúne certificação Cisco CCNA, experiência em operações de redes (NOC) e prática em laboratórios de redes, Linux e virtualização.
+- [x] Cisco CCNA — Certificação conquistada.
+- [x] Componentes curriculares da graduação em Redes concluídos.
+- [x] Experiência profissional em NOC.
+- [x] Homelab com Proxmox VE e máquinas virtuais.
+- [x] Protótipo funcional Aircraft AI Platform.
+- [x] Início da pós-graduação em Defesa Cibernética.
+- [x] Documentação de estudos de NG-SOC.
+- [ ] Linux Essentials 010-160 — Certificação pendente.
+- [ ] Regularização acadêmica e colação de grau.
 
-Atualmente, estou consolidando meus conhecimentos em redes corporativas, administração Linux e fundamentos de segurança, com planejamento de evolução em tecnologias Fortinet, análise de logs, SIEM e resposta a incidentes.
+### 🚀 2027 — Especialização e Evolução
 
-A futura pós-graduação em **Redes & Cybersecurity 2.0 — Hackone** faz parte desse desenvolvimento, juntamente com a preparação para certificações técnicas e a documentação contínua de laboratórios no GitHub.
-
-**Objetivo:** construir competências práticas para atuar como Analista de Segurança de Redes, integrando infraestrutura, redes corporativas e segurança defensiva.
+- [ ] Avançar nos estudos para LPIC-1.
+- [ ] Prosseguir com CCNP Enterprise.
+- [ ] Evoluir na formação em Blue Team.
+- [ ] Estudar tecnologias Fortinet.
+- [ ] Desenvolver laboratórios de análise de logs e segurança defensiva.
+- [ ] Ampliar conhecimentos em Python e automação.
+- [ ] Avaliar a retomada do Aircraft AI Platform.
+- [ ] Iniciar a formação Hackone Redes & Cybersecurity 2.0, conforme cronograma.
 
 ---
 
-# 💡 Filosofia
+## 📚 Diário de Estudos e Laboratórios
 
-Acredito que a melhor forma de aprender tecnologia é unir **fundamentos teóricos, prática em laboratório e resolução de problemas reais**.
+Este GitHub representa minha evolução técnica e profissional.
 
-Cada projeto e estudo é desenvolvido com foco em documentação técnica, boas práticas, versionamento, análise de resultados e evolução contínua.
+A documentação busca registrar não apenas resultados, mas também o processo de aprendizagem:
 
-Meu compromisso é construir uma base sólida de conhecimento, registrar os desafios encontrados e compartilhar experiências que possam contribuir tanto para meu desenvolvimento profissional quanto para futuras atividades como instrutor.
+1. **Estudar:** compreender os fundamentos.
+2. **Compreender:** questionar e correlacionar conceitos.
+3. **Praticar:** validar em laboratório.
+4. **Documentar:** registrar configurações, evidências e erros.
+5. **Compartilhar:** contribuir com conhecimento técnico autoral.
+
+Meu objetivo é construir uma base de conhecimento reutilizável para revisão, projetos futuros e possíveis atividades educacionais como instrutor.
+
+---
+
+## 📫 Contato
+
+Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades em Redes, Infraestrutura de TI e Cybersecurity.
+
+- **GitHub:** [github.com/dias0001](https://github.com/dias0001)
+- **LinkedIn:** Luiz Gustavo Chaves Dias
+- **E-mail:** l.g.chaves.d@gmail.com
+
+---
+
+## ✈️ Gratidão e Compromisso Profissional
+
+Tenho orgulho da minha trajetória na indústria aeronáutica e da oportunidade de contribuir com a Latecoere Brasil.
+
+Minha evolução na Tecnologia da Informação é construída com respeito às minhas responsabilidades profissionais atuais e com dedicação contínua aos estudos.
+
+Acredito que experiência, disciplina e conhecimento técnico são fundamentais para construir soluções confiáveis.
+
+---
+
+### 💡 Filosofia
 
 **Estudar. Compreender. Praticar. Documentar. Compartilhar.**
 
----
-
-# 📫 Contato
-
-Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades nas áreas de Redes, Infraestrutura de TI e Segurança de Redes.
-
-- 💻 **GitHub:** [github.com/dias0001](https://github.com/dias0001)
-- 💼 **LinkedIn:** [Luiz Gustavo Chaves Dias](https://www.linkedin.com/in/luiz-gustavo-chaves-dias)
-- ✉️ **E-mail profissional:** l.g.chaves.d@gmail.com
-
----
-
----
-
-# ✈️ Gratidão e Compromisso Profissional
-
-Tenho orgulho de fazer parte da **Latecoere Brasil**, onde exerço minhas atividades com dedicação, responsabilidade e compromisso com a qualidade.
-
-Sou grato pela oportunidade de contribuir com a indústria aeronáutica, uma área pela qual tenho grande paixão.
-
-Minha evolução profissional em tecnologia caminha ao lado do respeito e do compromisso que mantenho com minhas responsabilidades atuais.
-
----
-
-> **"Transformando estudo em engenharia, um projeto por vez."**
+*Transformando estudo em engenharia, um projeto por vez.*
